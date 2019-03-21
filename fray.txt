@@ -1,0 +1,5 @@
+Why Apex is the Superior programming language:
+	It has a short, snappy name
+	It works in San Francisco
+	It's event driven
+
